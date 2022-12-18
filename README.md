@@ -15,15 +15,18 @@ ________________________________________________________________________________
 # Install Jenkins and other dependencies
 _________________________________________
 
-# SSH to the EC2 using the keypair, Create sh file with the commands as shown in the install.sh file 
+#SSH to the EC2 using the keypair, Create sh file with the commands as shown in the install.sh file 
+
 vim install-file.sh
+
 chmod +x install-file.sh 
+
 ./install-file.sh
 ___________________________________________________________________________________________
 # Step 3 :
 # Setup Jenkins
 _________________
-# Access Jenkins using the EC2 IPv4-Public-DNS:"your port "
+#Access Jenkins using the EC2 IPv4-Public-DNS:"your port "
 
 ___________________________________________________________________________________________
 # Step 4 :
