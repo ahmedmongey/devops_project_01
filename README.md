@@ -1,1 +1,1 @@
-# Create_Jenkins_EC2_on_AWS_using_Terraform | Run_Jenkins_Pipeline_using_Jenkins
+# Create Jenkins EC2 on AWS using Terraform | Run Jenkins Pipeline using Jenkins
